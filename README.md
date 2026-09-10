@@ -6,7 +6,7 @@ regulations, syllabus, FAQs, academic notices, and other documents.
 
 ## 🌐 Live Website
 
-👉 [Visit AI Student Support Assistant]()
+👉 [Visit AI Student Support Assistant](https://pnrajan004.github.io/ai-support-assistants/)
 
 ## 🎯 Project Objective
 
